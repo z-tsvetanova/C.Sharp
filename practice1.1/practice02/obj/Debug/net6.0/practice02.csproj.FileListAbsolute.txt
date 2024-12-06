@@ -1,0 +1,15 @@
+C:\Users\aishi\source\repos\practice1.1\practice02\bin\Debug\net6.0\practice02.exe
+C:\Users\aishi\source\repos\practice1.1\practice02\bin\Debug\net6.0\practice02.deps.json
+C:\Users\aishi\source\repos\practice1.1\practice02\bin\Debug\net6.0\practice02.runtimeconfig.json
+C:\Users\aishi\source\repos\practice1.1\practice02\bin\Debug\net6.0\practice02.dll
+C:\Users\aishi\source\repos\practice1.1\practice02\bin\Debug\net6.0\practice02.pdb
+C:\Users\aishi\source\repos\practice1.1\practice02\obj\Debug\net6.0\practice02.csproj.AssemblyReference.cache
+C:\Users\aishi\source\repos\practice1.1\practice02\obj\Debug\net6.0\practice02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aishi\source\repos\practice1.1\practice02\obj\Debug\net6.0\practice02.AssemblyInfoInputs.cache
+C:\Users\aishi\source\repos\practice1.1\practice02\obj\Debug\net6.0\practice02.AssemblyInfo.cs
+C:\Users\aishi\source\repos\practice1.1\practice02\obj\Debug\net6.0\practice02.csproj.CoreCompileInputs.cache
+C:\Users\aishi\source\repos\practice1.1\practice02\obj\Debug\net6.0\practice02.dll
+C:\Users\aishi\source\repos\practice1.1\practice02\obj\Debug\net6.0\refint\practice02.dll
+C:\Users\aishi\source\repos\practice1.1\practice02\obj\Debug\net6.0\practice02.pdb
+C:\Users\aishi\source\repos\practice1.1\practice02\obj\Debug\net6.0\practice02.genruntimeconfig.cache
+C:\Users\aishi\source\repos\practice1.1\practice02\obj\Debug\net6.0\ref\practice02.dll

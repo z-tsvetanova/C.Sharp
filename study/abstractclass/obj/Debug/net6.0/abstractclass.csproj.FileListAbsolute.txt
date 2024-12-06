@@ -1,0 +1,15 @@
+C:\Users\aishi\source\repos\study\abstractclass\bin\Debug\net6.0\abstractclass.exe
+C:\Users\aishi\source\repos\study\abstractclass\bin\Debug\net6.0\abstractclass.deps.json
+C:\Users\aishi\source\repos\study\abstractclass\bin\Debug\net6.0\abstractclass.runtimeconfig.json
+C:\Users\aishi\source\repos\study\abstractclass\bin\Debug\net6.0\abstractclass.dll
+C:\Users\aishi\source\repos\study\abstractclass\bin\Debug\net6.0\abstractclass.pdb
+C:\Users\aishi\source\repos\study\abstractclass\obj\Debug\net6.0\abstractclass.csproj.AssemblyReference.cache
+C:\Users\aishi\source\repos\study\abstractclass\obj\Debug\net6.0\abstractclass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aishi\source\repos\study\abstractclass\obj\Debug\net6.0\abstractclass.AssemblyInfoInputs.cache
+C:\Users\aishi\source\repos\study\abstractclass\obj\Debug\net6.0\abstractclass.AssemblyInfo.cs
+C:\Users\aishi\source\repos\study\abstractclass\obj\Debug\net6.0\abstractclass.csproj.CoreCompileInputs.cache
+C:\Users\aishi\source\repos\study\abstractclass\obj\Debug\net6.0\abstractclass.dll
+C:\Users\aishi\source\repos\study\abstractclass\obj\Debug\net6.0\refint\abstractclass.dll
+C:\Users\aishi\source\repos\study\abstractclass\obj\Debug\net6.0\abstractclass.pdb
+C:\Users\aishi\source\repos\study\abstractclass\obj\Debug\net6.0\abstractclass.genruntimeconfig.cache
+C:\Users\aishi\source\repos\study\abstractclass\obj\Debug\net6.0\ref\abstractclass.dll

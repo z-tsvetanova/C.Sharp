@@ -1,0 +1,15 @@
+C:\Users\aishi\source\repos\lab10\lab10.2\bin\Debug\net6.0\lab10.2.exe
+C:\Users\aishi\source\repos\lab10\lab10.2\bin\Debug\net6.0\lab10.2.deps.json
+C:\Users\aishi\source\repos\lab10\lab10.2\bin\Debug\net6.0\lab10.2.runtimeconfig.json
+C:\Users\aishi\source\repos\lab10\lab10.2\bin\Debug\net6.0\lab10.2.dll
+C:\Users\aishi\source\repos\lab10\lab10.2\bin\Debug\net6.0\lab10.2.pdb
+C:\Users\aishi\source\repos\lab10\lab10.2\obj\Debug\net6.0\lab10.2.csproj.AssemblyReference.cache
+C:\Users\aishi\source\repos\lab10\lab10.2\obj\Debug\net6.0\lab10.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aishi\source\repos\lab10\lab10.2\obj\Debug\net6.0\lab10.2.AssemblyInfoInputs.cache
+C:\Users\aishi\source\repos\lab10\lab10.2\obj\Debug\net6.0\lab10.2.AssemblyInfo.cs
+C:\Users\aishi\source\repos\lab10\lab10.2\obj\Debug\net6.0\lab10.2.csproj.CoreCompileInputs.cache
+C:\Users\aishi\source\repos\lab10\lab10.2\obj\Debug\net6.0\lab10.2.dll
+C:\Users\aishi\source\repos\lab10\lab10.2\obj\Debug\net6.0\refint\lab10.2.dll
+C:\Users\aishi\source\repos\lab10\lab10.2\obj\Debug\net6.0\lab10.2.pdb
+C:\Users\aishi\source\repos\lab10\lab10.2\obj\Debug\net6.0\lab10.2.genruntimeconfig.cache
+C:\Users\aishi\source\repos\lab10\lab10.2\obj\Debug\net6.0\ref\lab10.2.dll

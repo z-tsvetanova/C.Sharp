@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aishi\\source\\repos\\asd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09A37D39-A637-429D-A250-16E8B6654077}|asd\\asd.vcxproj|C:\\Users\\aishi\\source\\repos\\asd\\asd\\asd.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{09A37D39-A637-429D-A250-16E8B6654077}|asd\\asd.vcxproj|solutionrelative:asd\\asd.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "asd.cpp",
+              "DocumentMoniker": "C:\\Users\\aishi\\source\\repos\\asd\\asd\\asd.cpp",
+              "RelativeDocumentMoniker": "asd\\asd.cpp",
+              "ToolTip": "C:\\Users\\aishi\\source\\repos\\asd\\asd\\asd.cpp",
+              "RelativeToolTip": "asd\\asd.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-20T09:40:15.526Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

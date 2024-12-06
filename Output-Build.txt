@@ -1,0 +1,11 @@
+﻿Build started...
+1>------ Build started: Project: ConsoleApplication3, Configuration: Debug x64 ------
+1>ConsoleApplication3.cpp
+1>C:\Users\aishi\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(14,12): warning C4477: 'printf_s' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'std::string'
+1>C:\Users\aishi\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(19,12): warning C4477: 'printf_s' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'std::string'
+1>C:\Users\aishi\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(24,12): warning C4477: 'printf_s' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'std::string'
+1>C:\Users\aishi\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(29,12): warning C4477: 'printf_s' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'std::string'
+1>C:\Users\aishi\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(34,12): warning C4477: 'printf_s' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'std::string'
+1>ConsoleApplication3.vcxproj -> C:\Users\aishi\source\repos\ConsoleApplication3\x64\Debug\ConsoleApplication3.exe
+1>Done building project "ConsoleApplication3.vcxproj".
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

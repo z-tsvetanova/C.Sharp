@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaB1", "LaB1\LaB1.csproj", "{87E8908A-27A5-41CC-8E43-510DB4EA2F1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadacha 3", "Zadacha 3\Zadacha 3.csproj", "{88678AE1-FBFD-407B-BDAC-497C18137BF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadacha 4", "Zadacha 4\Zadacha 4.csproj", "{1FEE0250-F0D2-4C1B-8BD3-62E1738A9548}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87E8908A-27A5-41CC-8E43-510DB4EA2F1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87E8908A-27A5-41CC-8E43-510DB4EA2F1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87E8908A-27A5-41CC-8E43-510DB4EA2F1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87E8908A-27A5-41CC-8E43-510DB4EA2F1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88678AE1-FBFD-407B-BDAC-497C18137BF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88678AE1-FBFD-407B-BDAC-497C18137BF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88678AE1-FBFD-407B-BDAC-497C18137BF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88678AE1-FBFD-407B-BDAC-497C18137BF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FEE0250-F0D2-4C1B-8BD3-62E1738A9548}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FEE0250-F0D2-4C1B-8BD3-62E1738A9548}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FEE0250-F0D2-4C1B-8BD3-62E1738A9548}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FEE0250-F0D2-4C1B-8BD3-62E1738A9548}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C56ACAD-FC08-435C-BF61-A388B36313B9}
+	EndGlobalSection
+EndGlobal

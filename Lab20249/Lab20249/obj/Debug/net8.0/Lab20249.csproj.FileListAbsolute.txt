@@ -1,0 +1,14 @@
+C:\Users\aishi\source\repos\Lab20249\Lab20249\bin\Debug\net8.0\Lab20249.exe
+C:\Users\aishi\source\repos\Lab20249\Lab20249\bin\Debug\net8.0\Lab20249.deps.json
+C:\Users\aishi\source\repos\Lab20249\Lab20249\bin\Debug\net8.0\Lab20249.runtimeconfig.json
+C:\Users\aishi\source\repos\Lab20249\Lab20249\bin\Debug\net8.0\Lab20249.dll
+C:\Users\aishi\source\repos\Lab20249\Lab20249\bin\Debug\net8.0\Lab20249.pdb
+C:\Users\aishi\source\repos\Lab20249\Lab20249\obj\Debug\net8.0\Lab20249.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aishi\source\repos\Lab20249\Lab20249\obj\Debug\net8.0\Lab20249.AssemblyInfoInputs.cache
+C:\Users\aishi\source\repos\Lab20249\Lab20249\obj\Debug\net8.0\Lab20249.AssemblyInfo.cs
+C:\Users\aishi\source\repos\Lab20249\Lab20249\obj\Debug\net8.0\Lab20249.csproj.CoreCompileInputs.cache
+C:\Users\aishi\source\repos\Lab20249\Lab20249\obj\Debug\net8.0\Lab20249.dll
+C:\Users\aishi\source\repos\Lab20249\Lab20249\obj\Debug\net8.0\refint\Lab20249.dll
+C:\Users\aishi\source\repos\Lab20249\Lab20249\obj\Debug\net8.0\Lab20249.pdb
+C:\Users\aishi\source\repos\Lab20249\Lab20249\obj\Debug\net8.0\Lab20249.genruntimeconfig.cache
+C:\Users\aishi\source\repos\Lab20249\Lab20249\obj\Debug\net8.0\ref\Lab20249.dll

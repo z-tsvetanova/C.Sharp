@@ -1,0 +1,15 @@
+C:\Users\aishi\source\repos\study\study6\bin\Debug\net6.0\study6.exe
+C:\Users\aishi\source\repos\study\study6\bin\Debug\net6.0\study6.deps.json
+C:\Users\aishi\source\repos\study\study6\bin\Debug\net6.0\study6.runtimeconfig.json
+C:\Users\aishi\source\repos\study\study6\bin\Debug\net6.0\study6.dll
+C:\Users\aishi\source\repos\study\study6\bin\Debug\net6.0\study6.pdb
+C:\Users\aishi\source\repos\study\study6\obj\Debug\net6.0\study6.csproj.AssemblyReference.cache
+C:\Users\aishi\source\repos\study\study6\obj\Debug\net6.0\study6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aishi\source\repos\study\study6\obj\Debug\net6.0\study6.AssemblyInfoInputs.cache
+C:\Users\aishi\source\repos\study\study6\obj\Debug\net6.0\study6.AssemblyInfo.cs
+C:\Users\aishi\source\repos\study\study6\obj\Debug\net6.0\study6.csproj.CoreCompileInputs.cache
+C:\Users\aishi\source\repos\study\study6\obj\Debug\net6.0\study6.dll
+C:\Users\aishi\source\repos\study\study6\obj\Debug\net6.0\refint\study6.dll
+C:\Users\aishi\source\repos\study\study6\obj\Debug\net6.0\study6.pdb
+C:\Users\aishi\source\repos\study\study6\obj\Debug\net6.0\study6.genruntimeconfig.cache
+C:\Users\aishi\source\repos\study\study6\obj\Debug\net6.0\ref\study6.dll

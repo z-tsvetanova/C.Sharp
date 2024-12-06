@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aishi\\source\\repos\\Lab62024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00A9E47E-4A3D-4608-BBA8-0FD4C84B76BF}|Lab620242\\Lab620242.csproj|c:\\users\\aishi\\source\\repos\\lab62024\\lab620242\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00A9E47E-4A3D-4608-BBA8-0FD4C84B76BF}|Lab620242\\Lab620242.csproj|solutionrelative:lab620242\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{875802E5-DA49-4958-BF14-72A3B46417C8}|Lab62024\\Lab62024.csproj|c:\\users\\aishi\\source\\repos\\lab62024\\lab62024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{875802E5-DA49-4958-BF14-72A3B46417C8}|Lab62024\\Lab62024.csproj|solutionrelative:lab62024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aishi\\source\\repos\\Lab62024\\Lab62024\\Program.cs",
+              "RelativeDocumentMoniker": "Lab62024\\Program.cs",
+              "ToolTip": "C:\\Users\\aishi\\source\\repos\\Lab62024\\Lab62024\\Program.cs",
+              "RelativeToolTip": "Lab62024\\Program.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAAwBIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T17:43:39.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aishi\\source\\repos\\Lab62024\\Lab620242\\Program.cs",
+              "RelativeDocumentMoniker": "Lab620242\\Program.cs",
+              "ToolTip": "C:\\Users\\aishi\\source\\repos\\Lab62024\\Lab620242\\Program.cs",
+              "RelativeToolTip": "Lab620242\\Program.cs",
+              "ViewState": "AQIAAHkAAAAAAAAAAAAowJYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T18:40:12.728Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

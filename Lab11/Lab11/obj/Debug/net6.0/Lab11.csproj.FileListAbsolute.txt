@@ -1,0 +1,15 @@
+C:\Users\aishi\source\repos\Lab11\Lab11\bin\Debug\net6.0\Lab11.exe
+C:\Users\aishi\source\repos\Lab11\Lab11\bin\Debug\net6.0\Lab11.deps.json
+C:\Users\aishi\source\repos\Lab11\Lab11\bin\Debug\net6.0\Lab11.runtimeconfig.json
+C:\Users\aishi\source\repos\Lab11\Lab11\bin\Debug\net6.0\Lab11.dll
+C:\Users\aishi\source\repos\Lab11\Lab11\bin\Debug\net6.0\Lab11.pdb
+C:\Users\aishi\source\repos\Lab11\Lab11\obj\Debug\net6.0\Lab11.csproj.AssemblyReference.cache
+C:\Users\aishi\source\repos\Lab11\Lab11\obj\Debug\net6.0\Lab11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aishi\source\repos\Lab11\Lab11\obj\Debug\net6.0\Lab11.AssemblyInfoInputs.cache
+C:\Users\aishi\source\repos\Lab11\Lab11\obj\Debug\net6.0\Lab11.AssemblyInfo.cs
+C:\Users\aishi\source\repos\Lab11\Lab11\obj\Debug\net6.0\Lab11.csproj.CoreCompileInputs.cache
+C:\Users\aishi\source\repos\Lab11\Lab11\obj\Debug\net6.0\Lab11.dll
+C:\Users\aishi\source\repos\Lab11\Lab11\obj\Debug\net6.0\refint\Lab11.dll
+C:\Users\aishi\source\repos\Lab11\Lab11\obj\Debug\net6.0\Lab11.pdb
+C:\Users\aishi\source\repos\Lab11\Lab11\obj\Debug\net6.0\Lab11.genruntimeconfig.cache
+C:\Users\aishi\source\repos\Lab11\Lab11\obj\Debug\net6.0\ref\Lab11.dll

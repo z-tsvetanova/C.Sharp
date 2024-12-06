@@ -1,0 +1,7 @@
+C:\Users\aishi\source\repos\Lab42024\Lab42024\bin\Debug\Lab42024.exe.config
+C:\Users\aishi\source\repos\Lab42024\Lab42024\bin\Debug\Lab42024.exe
+C:\Users\aishi\source\repos\Lab42024\Lab42024\bin\Debug\Lab42024.pdb
+C:\Users\aishi\source\repos\Lab42024\Lab42024\obj\Debug\Lab42024.csproj.AssemblyReference.cache
+C:\Users\aishi\source\repos\Lab42024\Lab42024\obj\Debug\Lab42024.csproj.CoreCompileInputs.cache
+C:\Users\aishi\source\repos\Lab42024\Lab42024\obj\Debug\Lab42024.exe
+C:\Users\aishi\source\repos\Lab42024\Lab42024\obj\Debug\Lab42024.pdb

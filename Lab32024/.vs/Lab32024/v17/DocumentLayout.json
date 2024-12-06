@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aishi\\source\\repos\\Lab32024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68970243-2569-4CEC-B6DB-ABB9B9FA7A1B}|Lab32024.2zadacha\\Lab32024.2zadacha.csproj|c:\\users\\aishi\\source\\repos\\lab32024\\lab32024.2zadacha\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68970243-2569-4CEC-B6DB-ABB9B9FA7A1B}|Lab32024.2zadacha\\Lab32024.2zadacha.csproj|solutionrelative:lab32024.2zadacha\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCE103F1-9D53-4649-AA5A-46766660B29A}|Lab32024\\Lab32024.csproj|c:\\users\\aishi\\source\\repos\\lab32024\\lab32024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCE103F1-9D53-4649-AA5A-46766660B29A}|Lab32024\\Lab32024.csproj|solutionrelative:lab32024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aishi\\source\\repos\\Lab32024\\Lab32024\\Program.cs",
+              "RelativeDocumentMoniker": "Lab32024\\Program.cs",
+              "ToolTip": "C:\\Users\\aishi\\source\\repos\\Lab32024\\Lab32024\\Program.cs",
+              "RelativeToolTip": "Lab32024\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T06:27:47.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aishi\\source\\repos\\Lab32024\\Lab32024.2zadacha\\Program.cs",
+              "RelativeDocumentMoniker": "Lab32024.2zadacha\\Program.cs",
+              "ToolTip": "C:\\Users\\aishi\\source\\repos\\Lab32024\\Lab32024.2zadacha\\Program.cs",
+              "RelativeToolTip": "Lab32024.2zadacha\\Program.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAuwD0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T06:51:40.012Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

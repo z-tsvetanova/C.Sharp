@@ -1,0 +1,15 @@
+C:\Users\aishi\source\repos\LaB1\Zadacha 4\bin\Debug\net6.0\Zadacha 4.exe
+C:\Users\aishi\source\repos\LaB1\Zadacha 4\bin\Debug\net6.0\Zadacha 4.deps.json
+C:\Users\aishi\source\repos\LaB1\Zadacha 4\bin\Debug\net6.0\Zadacha 4.runtimeconfig.json
+C:\Users\aishi\source\repos\LaB1\Zadacha 4\bin\Debug\net6.0\Zadacha 4.dll
+C:\Users\aishi\source\repos\LaB1\Zadacha 4\bin\Debug\net6.0\Zadacha 4.pdb
+C:\Users\aishi\source\repos\LaB1\Zadacha 4\obj\Debug\net6.0\Zadacha 4.csproj.AssemblyReference.cache
+C:\Users\aishi\source\repos\LaB1\Zadacha 4\obj\Debug\net6.0\Zadacha 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aishi\source\repos\LaB1\Zadacha 4\obj\Debug\net6.0\Zadacha 4.AssemblyInfoInputs.cache
+C:\Users\aishi\source\repos\LaB1\Zadacha 4\obj\Debug\net6.0\Zadacha 4.AssemblyInfo.cs
+C:\Users\aishi\source\repos\LaB1\Zadacha 4\obj\Debug\net6.0\Zadacha 4.csproj.CoreCompileInputs.cache
+C:\Users\aishi\source\repos\LaB1\Zadacha 4\obj\Debug\net6.0\Zadacha 4.dll
+C:\Users\aishi\source\repos\LaB1\Zadacha 4\obj\Debug\net6.0\refint\Zadacha 4.dll
+C:\Users\aishi\source\repos\LaB1\Zadacha 4\obj\Debug\net6.0\Zadacha 4.pdb
+C:\Users\aishi\source\repos\LaB1\Zadacha 4\obj\Debug\net6.0\Zadacha 4.genruntimeconfig.cache
+C:\Users\aishi\source\repos\LaB1\Zadacha 4\obj\Debug\net6.0\ref\Zadacha 4.dll

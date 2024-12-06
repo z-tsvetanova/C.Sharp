@@ -1,0 +1,14 @@
+C:\Users\aishi\source\repos\Lab5Project\Lab5Project\bin\Debug\net8.0\Lab5Project.exe
+C:\Users\aishi\source\repos\Lab5Project\Lab5Project\bin\Debug\net8.0\Lab5Project.deps.json
+C:\Users\aishi\source\repos\Lab5Project\Lab5Project\bin\Debug\net8.0\Lab5Project.runtimeconfig.json
+C:\Users\aishi\source\repos\Lab5Project\Lab5Project\bin\Debug\net8.0\Lab5Project.dll
+C:\Users\aishi\source\repos\Lab5Project\Lab5Project\bin\Debug\net8.0\Lab5Project.pdb
+C:\Users\aishi\source\repos\Lab5Project\Lab5Project\obj\Debug\net8.0\Lab5Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aishi\source\repos\Lab5Project\Lab5Project\obj\Debug\net8.0\Lab5Project.AssemblyInfoInputs.cache
+C:\Users\aishi\source\repos\Lab5Project\Lab5Project\obj\Debug\net8.0\Lab5Project.AssemblyInfo.cs
+C:\Users\aishi\source\repos\Lab5Project\Lab5Project\obj\Debug\net8.0\Lab5Project.csproj.CoreCompileInputs.cache
+C:\Users\aishi\source\repos\Lab5Project\Lab5Project\obj\Debug\net8.0\Lab5Project.dll
+C:\Users\aishi\source\repos\Lab5Project\Lab5Project\obj\Debug\net8.0\refint\Lab5Project.dll
+C:\Users\aishi\source\repos\Lab5Project\Lab5Project\obj\Debug\net8.0\Lab5Project.pdb
+C:\Users\aishi\source\repos\Lab5Project\Lab5Project\obj\Debug\net8.0\Lab5Project.genruntimeconfig.cache
+C:\Users\aishi\source\repos\Lab5Project\Lab5Project\obj\Debug\net8.0\ref\Lab5Project.dll

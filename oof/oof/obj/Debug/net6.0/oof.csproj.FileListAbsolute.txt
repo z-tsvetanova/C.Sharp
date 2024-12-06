@@ -1,0 +1,15 @@
+C:\Users\aishi\source\repos\oof\oof\bin\Debug\net6.0\oof.exe
+C:\Users\aishi\source\repos\oof\oof\bin\Debug\net6.0\oof.deps.json
+C:\Users\aishi\source\repos\oof\oof\bin\Debug\net6.0\oof.runtimeconfig.json
+C:\Users\aishi\source\repos\oof\oof\bin\Debug\net6.0\oof.dll
+C:\Users\aishi\source\repos\oof\oof\bin\Debug\net6.0\oof.pdb
+C:\Users\aishi\source\repos\oof\oof\obj\Debug\net6.0\oof.csproj.AssemblyReference.cache
+C:\Users\aishi\source\repos\oof\oof\obj\Debug\net6.0\oof.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aishi\source\repos\oof\oof\obj\Debug\net6.0\oof.AssemblyInfoInputs.cache
+C:\Users\aishi\source\repos\oof\oof\obj\Debug\net6.0\oof.AssemblyInfo.cs
+C:\Users\aishi\source\repos\oof\oof\obj\Debug\net6.0\oof.csproj.CoreCompileInputs.cache
+C:\Users\aishi\source\repos\oof\oof\obj\Debug\net6.0\oof.dll
+C:\Users\aishi\source\repos\oof\oof\obj\Debug\net6.0\refint\oof.dll
+C:\Users\aishi\source\repos\oof\oof\obj\Debug\net6.0\oof.pdb
+C:\Users\aishi\source\repos\oof\oof\obj\Debug\net6.0\oof.genruntimeconfig.cache
+C:\Users\aishi\source\repos\oof\oof\obj\Debug\net6.0\ref\oof.dll

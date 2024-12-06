@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aishi\\source\\repos\\Lab7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38EFCA92-A571-4707-8D34-2DD4012A068E}|Lab7.1\\Lab7.1.csproj|c:\\users\\aishi\\source\\repos\\lab7\\lab7.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38EFCA92-A571-4707-8D34-2DD4012A068E}|Lab7.1\\Lab7.1.csproj|solutionrelative:lab7.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F8D3935-20F9-410F-99CB-56945E8BD2E7}|Lab7.3\\Lab7.3.csproj|c:\\users\\aishi\\source\\repos\\lab7\\lab7.3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F8D3935-20F9-410F-99CB-56945E8BD2E7}|Lab7.3\\Lab7.3.csproj|solutionrelative:lab7.3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DBC7B59-899F-45F5-A41B-04441D853595}|Lab7\\Lab7.csproj|c:\\users\\aishi\\source\\repos\\lab7\\lab7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DBC7B59-899F-45F5-A41B-04441D853595}|Lab7\\Lab7.csproj|solutionrelative:lab7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aishi\\source\\repos\\Lab7\\Lab7\\Program.cs",
+              "RelativeDocumentMoniker": "Lab7\\Program.cs",
+              "ToolTip": "C:\\Users\\aishi\\source\\repos\\Lab7\\Lab7\\Program.cs",
+              "RelativeToolTip": "Lab7\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowB4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-04-28T09:48:40.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aishi\\source\\repos\\Lab7\\Lab7.1\\Program.cs",
+              "RelativeDocumentMoniker": "Lab7.1\\Program.cs",
+              "ToolTip": "C:\\Users\\aishi\\source\\repos\\Lab7\\Lab7.1\\Program.cs",
+              "RelativeToolTip": "Lab7.1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-04-28T10:16:49.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aishi\\source\\repos\\Lab7\\Lab7.3\\Program.cs",
+              "RelativeDocumentMoniker": "Lab7.3\\Program.cs",
+              "ToolTip": "C:\\Users\\aishi\\source\\repos\\Lab7\\Lab7.3\\Program.cs",
+              "RelativeToolTip": "Lab7.3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-04-28T10:42:39.554Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

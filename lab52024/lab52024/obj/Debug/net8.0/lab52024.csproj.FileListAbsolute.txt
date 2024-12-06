@@ -1,0 +1,14 @@
+C:\Users\aishi\source\repos\lab52024\lab52024\obj\Debug\net8.0\lab52024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aishi\source\repos\lab52024\lab52024\obj\Debug\net8.0\lab52024.AssemblyInfoInputs.cache
+C:\Users\aishi\source\repos\lab52024\lab52024\obj\Debug\net8.0\lab52024.AssemblyInfo.cs
+C:\Users\aishi\source\repos\lab52024\lab52024\obj\Debug\net8.0\lab52024.csproj.CoreCompileInputs.cache
+C:\Users\aishi\source\repos\lab52024\lab52024\bin\Debug\net8.0\lab52024.exe
+C:\Users\aishi\source\repos\lab52024\lab52024\bin\Debug\net8.0\lab52024.deps.json
+C:\Users\aishi\source\repos\lab52024\lab52024\bin\Debug\net8.0\lab52024.runtimeconfig.json
+C:\Users\aishi\source\repos\lab52024\lab52024\bin\Debug\net8.0\lab52024.dll
+C:\Users\aishi\source\repos\lab52024\lab52024\bin\Debug\net8.0\lab52024.pdb
+C:\Users\aishi\source\repos\lab52024\lab52024\obj\Debug\net8.0\lab52024.dll
+C:\Users\aishi\source\repos\lab52024\lab52024\obj\Debug\net8.0\refint\lab52024.dll
+C:\Users\aishi\source\repos\lab52024\lab52024\obj\Debug\net8.0\lab52024.pdb
+C:\Users\aishi\source\repos\lab52024\lab52024\obj\Debug\net8.0\lab52024.genruntimeconfig.cache
+C:\Users\aishi\source\repos\lab52024\lab52024\obj\Debug\net8.0\ref\lab52024.dll

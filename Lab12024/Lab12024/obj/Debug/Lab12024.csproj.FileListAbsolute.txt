@@ -1,0 +1,7 @@
+C:\Users\aishi\source\repos\Lab12024\Lab12024\bin\Debug\Lab12024.exe.config
+C:\Users\aishi\source\repos\Lab12024\Lab12024\bin\Debug\Lab12024.exe
+C:\Users\aishi\source\repos\Lab12024\Lab12024\bin\Debug\Lab12024.pdb
+C:\Users\aishi\source\repos\Lab12024\Lab12024\obj\Debug\Lab12024.csproj.AssemblyReference.cache
+C:\Users\aishi\source\repos\Lab12024\Lab12024\obj\Debug\Lab12024.csproj.CoreCompileInputs.cache
+C:\Users\aishi\source\repos\Lab12024\Lab12024\obj\Debug\Lab12024.exe
+C:\Users\aishi\source\repos\Lab12024\Lab12024\obj\Debug\Lab12024.pdb

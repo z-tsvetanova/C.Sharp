@@ -1,0 +1,14 @@
+C:\Users\aishi\source\repos\Lab62024\Lab62024\bin\Debug\net8.0\Lab62024.exe
+C:\Users\aishi\source\repos\Lab62024\Lab62024\bin\Debug\net8.0\Lab62024.deps.json
+C:\Users\aishi\source\repos\Lab62024\Lab62024\bin\Debug\net8.0\Lab62024.runtimeconfig.json
+C:\Users\aishi\source\repos\Lab62024\Lab62024\bin\Debug\net8.0\Lab62024.dll
+C:\Users\aishi\source\repos\Lab62024\Lab62024\bin\Debug\net8.0\Lab62024.pdb
+C:\Users\aishi\source\repos\Lab62024\Lab62024\obj\Debug\net8.0\Lab62024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aishi\source\repos\Lab62024\Lab62024\obj\Debug\net8.0\Lab62024.AssemblyInfoInputs.cache
+C:\Users\aishi\source\repos\Lab62024\Lab62024\obj\Debug\net8.0\Lab62024.AssemblyInfo.cs
+C:\Users\aishi\source\repos\Lab62024\Lab62024\obj\Debug\net8.0\Lab62024.csproj.CoreCompileInputs.cache
+C:\Users\aishi\source\repos\Lab62024\Lab62024\obj\Debug\net8.0\Lab62024.dll
+C:\Users\aishi\source\repos\Lab62024\Lab62024\obj\Debug\net8.0\refint\Lab62024.dll
+C:\Users\aishi\source\repos\Lab62024\Lab62024\obj\Debug\net8.0\Lab62024.pdb
+C:\Users\aishi\source\repos\Lab62024\Lab62024\obj\Debug\net8.0\Lab62024.genruntimeconfig.cache
+C:\Users\aishi\source\repos\Lab62024\Lab62024\obj\Debug\net8.0\ref\Lab62024.dll
