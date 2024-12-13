@@ -1,0 +1,15 @@
+C:\Users\aishi\source\repos\Lab202412\Lab202412\bin\Debug\net8.0\Lab202412.exe
+C:\Users\aishi\source\repos\Lab202412\Lab202412\bin\Debug\net8.0\Lab202412.deps.json
+C:\Users\aishi\source\repos\Lab202412\Lab202412\bin\Debug\net8.0\Lab202412.runtimeconfig.json
+C:\Users\aishi\source\repos\Lab202412\Lab202412\bin\Debug\net8.0\Lab202412.dll
+C:\Users\aishi\source\repos\Lab202412\Lab202412\bin\Debug\net8.0\Lab202412.pdb
+C:\Users\aishi\source\repos\Lab202412\Lab202412\obj\Debug\net8.0\Lab202412.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aishi\source\repos\Lab202412\Lab202412\obj\Debug\net8.0\Lab202412.AssemblyInfoInputs.cache
+C:\Users\aishi\source\repos\Lab202412\Lab202412\obj\Debug\net8.0\Lab202412.AssemblyInfo.cs
+C:\Users\aishi\source\repos\Lab202412\Lab202412\obj\Debug\net8.0\Lab202412.csproj.CoreCompileInputs.cache
+C:\Users\aishi\source\repos\Lab202412\Lab202412\obj\Debug\net8.0\Lab202412.sourcelink.json
+C:\Users\aishi\source\repos\Lab202412\Lab202412\obj\Debug\net8.0\Lab202412.dll
+C:\Users\aishi\source\repos\Lab202412\Lab202412\obj\Debug\net8.0\refint\Lab202412.dll
+C:\Users\aishi\source\repos\Lab202412\Lab202412\obj\Debug\net8.0\Lab202412.pdb
+C:\Users\aishi\source\repos\Lab202412\Lab202412\obj\Debug\net8.0\Lab202412.genruntimeconfig.cache
+C:\Users\aishi\source\repos\Lab202412\Lab202412\obj\Debug\net8.0\ref\Lab202412.dll
